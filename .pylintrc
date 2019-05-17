@@ -1,0 +1,5 @@
+[MESSAGES CONTROL]
+disable=invalid-name, bad-continuation 
+
+[FORMAT]
+indent-string="\t"
